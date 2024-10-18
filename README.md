@@ -1,7 +1,7 @@
-## GATLM
+# GATLM
 Geometric Analysis of Transformer Time Series Forecasting Latent Manifolds
 
-# Our main results:
+## Our main results:
 -Transformer forecasting manifolds exhibit two phases—dimensionality and curvature drop or remain fixed during encoding, then increase during decoding. 
 
 <div align=center><img src="figures/.png" width="70%"></div>
@@ -37,5 +37,13 @@ python est_curv.py
 
 ## Paper
 ```
-
+@misc{kaufman2024analyzingdeeptransformermodels,
+      title={Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning}, 
+      author={Ilya Kaufman and Omri Azencot},
+      year={2024},
+      eprint={2410.13792},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.13792}, 
+}
 ```
