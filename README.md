@@ -2,7 +2,7 @@
 Geometric Analysis of Transformer Time Series Forecasting Latent Manifolds
 
 ## Our main results:
--Transformer forecasting manifolds exhibit two phases—dimensionality and curvature drop or remain fixed during encoding, then increase during decoding. 
+-Transformer forecasting manifolds exhibit two phases dimensionality and curvature drop or remain fixed during encoding, then increase during decoding. 
 
 <div align=center><img src="figures/autoformer_fedformer_vs_horizons-1.png" width="70%"></div>
 
