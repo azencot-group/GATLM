@@ -45,7 +45,6 @@ author={Ilya Kaufman and Omri Azencot},
 journal={Transactions on Machine Learning Research},
 issn={2835-8856},
 year={2024},
-url={https://openreview.net/forum?id=zRZe93OZho},
-note={}
+url={https://openreview.net/forum?id=zRZe93OZho}
 }
 ```
