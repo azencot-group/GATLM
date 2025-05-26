@@ -37,13 +37,12 @@ python est_curv.py --task_id ETTm1
 
 ## Paper
 ```
-@article{
-kaufman2024analyzing,
-title={Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning},
-author={Ilya Kaufman and Omri Azencot},
-journal={Transactions on Machine Learning Research},
-issn={2835-8856},
-year={2024},
-url={https://openreview.net/forum?id=zRZe93OZho}
+@article{kaufman2024analyzing,
+  title={Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning},
+  author={Ilya Kaufman and Omri Azencot},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=zRZe93OZho}
 }
 ```
